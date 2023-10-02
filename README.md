@@ -6,8 +6,9 @@
 <img src ="https://github.com/bveloper01/flutterforward/assets/115642045/18d45113-6539-4e04-85df-4dd9df6c0a1b" /> 
 </p>
 <p align="left">
-<img src ="https://github.com/bveloper01/flutterforward/assets/115642045/b371bdc1-d341-476e-ad9e-719517b0fd10"/> <img src ="https://github.com/bveloper01/flutterforward/assets/115642045/dbc619a5-05b8-4fc1-97b6-f17e081fe063" />  
+<img src ="https://github.com/bveloper01/flutterforward/assets/115642045/0304bf03-7b96-4ba7-b35c-3d88a84c971c"/> <img src =https://github.com/bveloper01/flutterforward/assets/115642045/b5d2acb2-7647-4265-b8fe-ce6f3687ee57"" />  
 </p>
+
 
 <h3 align="left">Language and Framework:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
